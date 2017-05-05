@@ -1,2 +1,1 @@
-create 002.log to branch-002 001 002 after
-
+create 002.log to branch-002 001 002 before after 
