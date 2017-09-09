@@ -1,3 +1,2 @@
 # gitstudy
 
-# :/play what:
